@@ -1,5 +1,6 @@
-# text-gen-webui-colab
-Colab notebook for using textgeneration webui found [HERE](https://github.com/oobabooga/text-generation-webui/)
+# text-gen-webui-colab <a href="https://colab.research.google.com/drive/1106gsbx-6zZ4TVA-pPG6PRzEGI95VzR5?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Colab notebook for using textgeneration webui found [HERE](https://github.com/oobabooga/text-generation-webui/) or 
 
 
 # Usage
